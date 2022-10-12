@@ -4,7 +4,7 @@
 
 <a href="https://codebeautify.org/base64-to-image-converter" target="_blank" rel="noopener noreferrer">Online Base 64</a>
 
-## String in base 64
+## File in base 64
 
-
+<a href="https://github.com/memolopezmx/base64_selfie/blob/main/fotoMiaBase64.txt" download="fotoMiaBase64"></a>
 
