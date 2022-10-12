@@ -6,5 +6,7 @@
 
 ## File in base 64
 
-<a href="https://github.com/memolopezmx/base64_selfie/blob/main/fotoMiaBase64.txt" download="[fotoMiaBase64](https://github.com/memolopezmx/base64_selfie/blob/main/fotoMiaBase64.txt)"></a>
+
+<a href="https://github.com/memolopezmx/base64_selfie/blob/main/fotoMiaBase64.txt" download="fotoMiaBase64.txt">Foto TXT Download</a>
+
 
